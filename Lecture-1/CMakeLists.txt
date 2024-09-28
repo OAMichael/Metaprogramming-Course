@@ -1,0 +1,2 @@
+add_subdirectory(testqual)
+add_subdirectory(basic_string_cmp)
